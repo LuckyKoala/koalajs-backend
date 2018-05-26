@@ -1,0 +1,26 @@
+{
+  "name": "koalajs-backend",
+  "version": "1.0.0",
+  "description": "Backend for koalajs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuckyKoala/koalajs-backend.git"
+  },
+  "author": "LuckyKoala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuckyKoala/koalajs-backend/issues"
+  },
+  "homepage": "https://github.com/LuckyKoala/koalajs-backend#readme",
+  "dependencies": {
+    "command-line-args": "^5.0.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "promise": "^8.0.1",
+    "rethinkdbdash": "^2.3.31"
+  }
+}
