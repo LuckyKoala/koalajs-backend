@@ -5,7 +5,7 @@ Blog written by JavaScript.
 ## Download KoalaBlog.js and its dependency
 
 ```
-git clone git@github.com:LuckyKoala/KoalaBlog.js.git
+git clone git@github.com:LuckyKoala/koalajs-backend.git
 npm install
 ```
 
